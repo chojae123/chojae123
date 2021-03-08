@@ -6,6 +6,7 @@
 ### interested in..   
     media,game data 🎬🎮
     Technology 📱
+    AI (ML/DL) 💻
 <!--
 **chojae123/chojae123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
