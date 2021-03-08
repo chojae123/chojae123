@@ -1,7 +1,11 @@
-###  👋
+### Hi,There 👋
 
-*I am interested in Data Analysis*
+*I'm Jaehyuck*    
+*I’m currently learning Data Analysis*
 
+### interested in..   
+    media,game data 🎬🎮
+    Technology 📱
 <!--
 **chojae123/chojae123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
