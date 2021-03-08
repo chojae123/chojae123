@@ -1,4 +1,4 @@
-### Hi there, I'm Jaehyuck 👋
+###  👋
 
 *I am interested in Data Analysis*
 
